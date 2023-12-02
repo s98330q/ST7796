@@ -30,7 +30,7 @@ from PIL import Image
 from PIL import ImageDraw
 
 import Adafruit_GPIO as GPIO
-import Adafruit_GPIO.spi as spi
+import Adafruit_GPIO.SPI as SPI
 
 
 # Constants for interacting with display registers.
